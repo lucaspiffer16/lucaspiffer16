@@ -1,6 +1,6 @@
 # 👋 Lucas Piffer
 
-**Full Stack Software Developer**  
+**Full Stack Developer**  
 Web • Mobile • Desktop • Game Dev • Automation • DevOps
 
 ---
