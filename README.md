@@ -1,98 +1,107 @@
-# 👋 Olá! Eu sou Lucas Piffer
+# 👋 Lucas Piffer
 
-## 🧠 Sobre mim
-Sou **Lucas Piffer**, um desenvolvedor **Full Stack** apaixonado por tecnologia, desenvolvimento de software e inovação. Tenho **16 anos** e foco em construir aplicações robustas, performáticas e escaláveis, sempre prezando por código limpo, boas práticas e segurança.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-### 👨‍💻 Linguagens
-![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-0A1A2F?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=for-the-badge&logo=postgresql)
+**Full Stack Software Developer**  
+Web • Mobile • Desktop • Game Dev • Automation • DevOps
 
 ---
 
-### 🧠 Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-0A1A2F?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-0A1A2F?style=for-the-badge&logo=express)
-![Fastify](https://img.shields.io/badge/-Fastify-0A1A2F?style=for-the-badge&logo=fastify)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0A1A2F?style=for-the-badge&logo=springboot)
+## About
+Full-stack developer focused on building **reliable, scalable and maintainable systems**.  
+Experience across **web, mobile, desktop, automation, infrastructure and game development**, with emphasis on **clean architecture, performance and security**.
 
 ---
 
-### 🎨 Front-End
-![React](https://img.shields.io/badge/-React-0A1A2F?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=for-the-badge&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=for-the-badge&logo=expo)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0A1A2F?style=for-the-badge&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=for-the-badge&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=for-the-badge&logo=bootstrap)
+## Languages
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,cs,cpp&perline=12)](https://skillicons.dev)
+
+- Strong fundamentals and multi-paradigm experience  
+- Object-oriented and functional approaches  
+- Performance-aware implementations  
 
 ---
 
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-0A1A2F?style=for-the-badge&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=for-the-badge&logo=mongodb)
-![TypeORM](https://img.shields.io/badge/-TypeORM-0A1A2F?style=for-the-badge&logo=typeorm)
-![Prisma](https://img.shields.io/badge/-Prisma-0A1A2F?style=for-the-badge&logo=prisma)
+## Frontend (Web)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,tailwind,sass,webpack,vite&perline=12)](https://skillicons.dev)
+
+- Component-driven UI development  
+- SSR / SSG with Next.js  
+- Accessibility and performance considerations  
 
 ---
 
-### ☁️ Cloud e DevOps
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0A1A2F?style=for-the-badge&logo=googlecloud)
-![Vercel](https://img.shields.io/badge/-Vercel-0A1A2F?style=for-the-badge&logo=vercel)
-![Railway](https://img.shields.io/badge/-Railway-0A1A2F?style=for-the-badge&logo=railway)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0A1A2F?style=for-the-badge&logo=githubactions)
+## Backend & APIs
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,adonis,graphql,rabbitmq,redis&perline=12)](https://skillicons.dev)
+
+- REST and GraphQL APIs  
+- Authentication and authorization  
+- Background jobs, queues and async flows  
+- Clean Architecture and SOLID  
 
 ---
 
-### ⚙️ Ferramentas, Build e Qualidade de Código
-![Vite](https://img.shields.io/badge/-Vite-0A1A2F?style=for-the-badge&logo=vite)
-![Webpack](https://img.shields.io/badge/-Webpack-0A1A2F?style=for-the-badge&logo=webpack)
-![Babel](https://img.shields.io/badge/-Babel-0A1A2F?style=for-the-badge&logo=babel)
-![ESLint](https://img.shields.io/badge/-ESLint-0A1A2F?style=for-the-badge&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-0A1A2F?style=for-the-badge&logo=prettier)
-![Zod](https://img.shields.io/badge/-Zod-0A1A2F?style=for-the-badge)
-![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=for-the-badge&logo=jest)
-![Vitest](https://img.shields.io/badge/-Vitest-0A1A2F?style=for-the-badge&logo=vitest)
+## Mobile Development
+[![Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=12)](https://skillicons.dev)
+
+- Cross-platform mobile apps  
+- Structured state management  
+- Performance-focused UI and UX  
 
 ---
 
-### 🔧 Outras Tecnologias
-![Arduino](https://img.shields.io/badge/-Arduino-0A1A2F?style=for-the-badge&logo=arduino)
-![Git](https://img.shields.io/badge/-Git-0A1A2F?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=for-the-badge&logo=linux)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-0A1A2F?style=for-the-badge&logo=archlinux)
-![Zed](https://img.shields.io/badge/-Zed-0A1A2F?style=for-the-badge)
+## Desktop Applications
+[![Skills](https://skillicons.dev/icons?i=dotnet,electron,tauri,windows,visualstudio&perline=12)](https://skillicons.dev)
+
+- Cross-platform desktop solutions  
+- .NET / C# development  
+- .NET MAUI for native experiences  
 
 ---
 
-## 🗺️ Sistema Operacional
-- 🐧 **Arch Linux** (principal)
-- 🖥️ Forte com ambientes Unix/Linux
+## Game Development
+[![Skills](https://skillicons.dev/icons?i=unity,godot,unreal&perline=12)](https://skillicons.dev)
+
+- Gameplay systems and logic  
+- Scene management and game loop  
+- Prototyping and experimentation  
 
 ---
 
-## 📫 Contato
-- ✉️ **Email:** piffer.lucas0@gmail.com
+## Databases & Persistence
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&perline=12)](https://skillicons.dev)
+
+- Relational and NoSQL modeling  
+- Transactions, indexing and constraints  
+- ORM usage with Prisma and TypeORM  
 
 ---
 
-## 🔥 Sempre Aprendendo
-Focado em:
-- 🔐 Segurança de aplicações
-- 🧹 Clean Code & SOLID
-- 🏛️ Arquitetura escalável
-- 🚀 Performance
-- 🔍 Legibilidade e manutenibilidade
-- 🛠️ Ferramentas modernas que aumentam qualidade e produtividade
+## Automation & Tooling
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,figma,jira,trello&perline=12)](https://skillicons.dev)
+
+- Workflow automation with n8n  
+- CI/CD pipelines and collaboration  
+- Version control and UI prototyping  
 
 ---
+
+## DevOps & Infrastructure
+[![Skills](https://skillicons.dev/icons?i=linux,arch,docker,nginx,redis,rabbitmq&perline=12)](https://skillicons.dev)
+
+- Linux servers and containers  
+- Docker, Docker Swarm and pm2  
+- Reverse proxy, caching and messaging  
+
+---
+
+## Professional Focus
+- Security-first mindset  
+- Performance measured before optimization  
+- Stability over novelty  
+- Systems designed to run unattended  
+
+---
+
+## Links
+- Portfolio: https://lucaspiffer.netlify.app  
+- LinkedIn: https://www.linkedin.com/in/lucaspiffer/  
+- Email: piffer.lucas0@gmail.com
