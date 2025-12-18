@@ -12,7 +12,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Languages
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,cs,cpp&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,dart,c,cs,cpp&perline=6)](https://skillicons.dev)
 
 - Strong fundamentals and multi-paradigm experience  
 - Object-oriented and functional approaches  
@@ -21,7 +21,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Frontend (Web)
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,tailwind,sass,webpack,vite&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=babel,react,nextjs,astro,angular,vue,html,css,bootstrap,tailwind,sass,webpack,vite&perline=6)](https://skillicons.dev)
 
 - Component-driven UI development  
 - SSR / SSG with Next.js  
@@ -30,7 +30,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Backend & APIs
-[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,adonis,graphql,rabbitmq,redis&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,spring,express,adonis,graphql,rabbitmq,redis&perline=6)](https://skillicons.dev)
 
 - REST and GraphQL APIs  
 - Authentication and authorization  
@@ -40,7 +40,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Mobile Development
-[![Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=6)](https://skillicons.dev)
 
 - Cross-platform mobile apps  
 - Structured state management  
@@ -49,7 +49,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Desktop Applications
-[![Skills](https://skillicons.dev/icons?i=dotnet,electron,tauri,windows,visualstudio&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dotnet,electron,tauri,windows,visualstudio&perline=6)](https://skillicons.dev)
 
 - Cross-platform desktop solutions  
 - .NET / C# development  
@@ -58,7 +58,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Game Development
-[![Skills](https://skillicons.dev/icons?i=unity,godot,unreal&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=unity,godot,unreal&perline=6)](https://skillicons.dev)
 
 - Gameplay systems and logic  
 - Scene management and game loop  
@@ -67,7 +67,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Databases & Persistence
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,supabase&perline=6)](https://skillicons.dev)
 
 - Relational and NoSQL modeling  
 - Transactions, indexing and constraints  
@@ -76,7 +76,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Automation & Tooling
-[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,figma,jira,trello&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,git,github,githubactions,jest,figma,vim,neovim,arduino,vscode,postman,jira,trello&perline=6)](https://skillicons.dev)
 
 - Workflow automation with n8n  
 - CI/CD pipelines and collaboration  
@@ -85,7 +85,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## DevOps & Infrastructure
-[![Skills](https://skillicons.dev/icons?i=linux,arch,docker,nginx,redis,rabbitmq&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,docker,nginx,redis,rabbitmq,aws,netlify,vercel&perline=6)](https://skillicons.dev)
 
 - Linux servers and containers  
 - Docker, Docker Swarm and pm2  
@@ -102,6 +102,6 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Links
-- Portfolio: https://lucaspiffer.netlify.app  
-- LinkedIn: https://www.linkedin.com/in/lucaspiffer/  
 - Email: piffer.lucas0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucaspiffer/  
+- Portfólio: https://lucaspiffer.netlify.app  
