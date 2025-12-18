@@ -76,7 +76,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Automation & Tooling
-[![Skills](https://skillicons.dev/icons?i=bash,git,github,githubactions,jest,figma,vim,neovim,arduino,vscode,postman,jira,trello&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,git,github,githubactions,jest,figma,vim,neovim,arduino,vscode,postman&perline=6)](https://skillicons.dev)
 
 - Workflow automation with n8n  
 - CI/CD pipelines and collaboration  
