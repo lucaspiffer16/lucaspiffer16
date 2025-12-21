@@ -12,7 +12,7 @@ Experience across **web, mobile, desktop, automation, infrastructure and game de
 ---
 
 ## Languages
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,dart,c,cs,cpp&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=lua,js,ts,py,java,dart,c,cs,cpp&perline=6)](https://skillicons.dev)
 
 - Strong fundamentals and multi-paradigm experience  
 - Object-oriented and functional approaches  
